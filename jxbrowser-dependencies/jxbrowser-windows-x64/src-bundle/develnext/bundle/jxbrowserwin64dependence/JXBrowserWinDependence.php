@@ -1,7 +1,7 @@
 <?php
 
 
-namespace develnext\bundle\jxbrowsermacosdependence;
+namespace develnext\bundle\jxbrowserwin64dependence;
 
 
 use ide\bundle\AbstractBundle;
