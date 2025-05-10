@@ -33,7 +33,7 @@ config:
 
 develnext-bundle:
   version: 1.0.0
-  name: JXBrowserWin32-Dependence
+  name: JXBrowserWin64-Dependence
   author: evodevelopers
   icon: "develnext/bundle/jxbrowserwin64dependence/icon.png"
   description: "JXbrowser dependence for win64 "
